@@ -26,7 +26,6 @@ function App() {
       setmsg('You are overweight');
     }
   }
-
   const handleReset = () => {
     setWeight(0);
     setbmi(0) ;
